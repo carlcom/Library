@@ -210,6 +210,9 @@ LANDING
   padding-bottom: 16px;
 }
 
+.header__img--wrapper {
+  padding: 0 24px;
+}
 
 .container {
   padding: 56px 0;
