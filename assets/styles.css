@@ -189,12 +189,9 @@ LANDING
 */
 
 #landing {
-  background-color: rgba(115, 66, 214, 0.1)
+  background-color: var(--bg-color);
 }
 
-header {
-
-}
 
 .header__container {
   width: 100%;
@@ -213,10 +210,6 @@ header {
   padding-bottom: 16px;
 }
 
-.header__img--wrapper {
-
-  z-index: 2;
-}
 
 .container {
   padding: 56px 0;
